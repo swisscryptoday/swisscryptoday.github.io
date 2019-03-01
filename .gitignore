@@ -1,4 +1,5 @@
-Gemfile.lock
+Gemfile.local
+_config.yml.local
 _site
 .sass-cache
 .jekyll-metadata
