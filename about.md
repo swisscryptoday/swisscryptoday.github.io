@@ -11,6 +11,9 @@ in Switzerland.  It will take place at irregular intervals.
 The first edition in 2019 is hosted by the crypto group at
 the [University of Bern](//crypto.unibe.ch).
 
+There is a mailing list for announcements about the Swiss Crypto Day.
+To subscribe, please visit [www.list.inf.unibe.ch/listinfo/swisscryptoday](//www.list.inf.unibe.ch/listinfo/swisscryptoday) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
+
 # Related Events
 - [Bay Area Crypto Day](https://bacrypto.github.io/)
 - [Charles River Crypto Day](https://bostoncryptoday.wordpress.com/)
