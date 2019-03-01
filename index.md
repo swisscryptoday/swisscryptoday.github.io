@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: blog
+title: Swiss Crypto Day
+feature_image: "/assets/swisscryptoday-white.jpg"
+feature_text: 
 ---
+
+A full day of cryptography talks in Switzerland

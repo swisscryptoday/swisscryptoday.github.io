@@ -1,0 +1,39 @@
+// Background colours
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #fafafa;
+$featureBackgroundColour: #ffffff;
+$accentColour: #05bf85;
+
+// Text colours
+$headingColour: #242e2b;
+$bodyColour: #384743;
+$linkColour: #e8423f;
+$hoverColour: #952a29;
+$focusColour: #fa407a;
+$captionColour: #a8adac;
+$white: #ffffff;
+
+// Typography
+$bodytype: (
+  font-family: 'IBM Plex Sans, serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"IBM Plex Sans", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+$monospacetype: (
+  font-family: 'Courier, monospace',
+  regular: 400,
+  cap-height: 0.68
+);
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,700');

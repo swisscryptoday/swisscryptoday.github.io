@@ -1,18 +1,23 @@
 ---
 layout: page
 title: About
+feature_image: "/assets/swisscryptoday-white.jpg"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Swiss Crypto Day is an informal event to promote research in cryptology
+in Switzerland.  It will take place at irregular intervals.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The first edition in 2019 is hosted by the crypto group at
+the [University of Bern](//crypto.unibe.ch).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Related Events
+- [Bay Area Crypto Day](https://bacrypto.github.io/)
+- [Charles River Crypto Day](https://bostoncryptoday.wordpress.com/)
+- [DC Area Crypto Day](https://dcareacryptoday.wordpress.com/)
+- [Greater Tel Aviv Area Crypto Seminar](http://www.cs.tau.ac.il/cseminar/)
+- [London Crypto Day](https://londoncryptoday.wordpress.com/)
+- [New York Crypto Day](https://nycryptoday.wordpress.com/)
+- [Tokyo Crypto Day](https://tokyocryptoday.github.io/)
+- [Paris Crypto Day](https://pariscryptoday.github.io/)
 
-
-[jekyll-organization]: https://github.com/jekyll
