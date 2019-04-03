@@ -6,6 +6,7 @@ permalink: /2019/
 date:   2019-01-01 09:00:00 +0100
 ---
 
+Please save the date.
 Confirmed speakers are:
 
 - [Vadim Lyubashevsky, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-VAD)
