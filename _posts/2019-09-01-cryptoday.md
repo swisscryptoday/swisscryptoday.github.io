@@ -11,7 +11,7 @@ Confirmed speakers are:
 
 - [Vadim Lyubashevsky, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-VAD)
 - [Ueli Maurer, ETHZ](//crypto.ethz.ch/~maurer/)
-- [Gregory Neven, DFINITY](//www.neven.org/)
+- [Gregory Neven, DFINITY](http://www.neven.org/)
 - [Kenny Paterson, ETHZ](http://www.isg.rhul.ac.uk/~kp/)
 - [Björn Tackmann, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-VAD)
 - [Serge Vaudenay, EPFL](//lasec.epfl.ch/people/vaudenay)
