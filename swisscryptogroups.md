@@ -9,6 +9,8 @@ permalink: /groups/
 
 <!-- Bern -->
 - [University of Bern](//crypto.unibe.ch/)
+<!-- Biel -->
+- [BFH, E-Voting Group](//e-voting.bfh.ch/)
 <!-- Lausanne -->
 - [EPFL - DEDIS](//dedis.epfl.ch/)
 - [EPFL - LACAL](//lacal.epfl.ch/)
@@ -23,8 +25,8 @@ permalink: /groups/
 <!-- Zürich -->
 - [DFINITY - Zurich](//dfinity.org/team/#research)
 - [ETHZ - Information Security and Cryptography](https://crypto.ethz.ch/)
-- [ETHZ - Distributed Computing](http://www.infsec.ethz.ch/)
-- [ETHZ - Information Security](//www.infsec.ethz.ch/)
+- [ETHZ - Distributed Computing](//disco.ethz.ch/)
+- [ETHZ - Information Security](http://www.infsec.ethz.ch/)
 - [ETHZ - Network Security](//netsec.ethz.ch/)
 - [ETHZ - System Security](http://www.syssec.ethz.ch/)
 - [University of Zurich](//user.math.uzh.ch/rosenthal/)
