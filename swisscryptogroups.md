@@ -10,7 +10,7 @@ permalink: /groups/
 <!-- Bern -->
 - [University of Bern](//crypto.unibe.ch/)
 <!-- Biel -->
-- [BFH, E-Voting Group](//e-voting.bfh.ch/)
+- [BFH, RISIS, E-Voting Group](//e-voting.bfh.ch/)
 <!-- Lausanne -->
 - [EPFL - DEDIS](//dedis.epfl.ch/)
 - [EPFL - LACAL](//lacal.epfl.ch/)
