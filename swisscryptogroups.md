@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research Groups"
+feature_text: "[Swiss Crypto Day](//)"
 feature_image: "/assets/swisscryptoday-white.jpg"
 permalink: /groups/
 ---
