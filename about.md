@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-feature_text: "[Swiss Crypto Day](/)"
+title_extra: "[Swiss Crypto Day](/)"
 feature_image: "/assets/swisscryptoday-white.jpg"
 permalink: /about/
 ---
