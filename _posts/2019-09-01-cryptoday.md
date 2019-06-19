@@ -15,5 +15,6 @@ Confirmed speakers are:
 - [Gregory Neven, DFINITY](http://www.neven.org/)
 - [Kenny Paterson, ETHZ](//appliedcrypto.ethz.ch/people/kenny-paterson.html)
 - [Björn Tackmann, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-BTA)
+- [Carmela Troncoso, EPFL](http://carmelatroncoso.com/)
 - [Serge Vaudenay, EPFL](//lasec.epfl.ch/people/vaudenay)
 - [Christian Cachin, Uni Bern](//crypto.unibe.ch/cc/)
