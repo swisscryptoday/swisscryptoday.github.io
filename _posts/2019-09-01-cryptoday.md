@@ -64,7 +64,7 @@ steps.
 
 Participation is free but registration is required for planning purpose.
 
-<button name="button" style="background-color:deepskyblue;color:white" onclick="https://crypto.unibe.ch/registration/e/1/swiss-crypto-day-2019">Register here</button>
+<button name="button" style="background-color:deepskyblue;color:white" onclick="parent.open('https://crypto.unibe.ch/registration/e/1/swiss-crypto-day-2019')">Register here</button>
 
 We will add your email address to the [Swiss crypto day mailing list](//www.list.inf.unibe.ch/listinfo/swisscryptoday) to inform you about further editions.
 
