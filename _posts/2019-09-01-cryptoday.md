@@ -17,7 +17,7 @@ date:   2019-01-01 09:00:00 +0100
 |  9:05        || [Kenny Paterson, ETHZ](//appliedcrypto.ethz.ch/people/kenny-paterson.html) |
 |              || **A Performant, Misuse-Resistant API for Primality Testing** |
 | | |
-|  9:40        || [Björn Tackmann, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-BTA) |
+|  9:40        || [Björn Tackmann, DFINITY](//cseweb.ucsd.edu/~btackmann/) |
 |              || **Multi-Protocol UC and its Use for Building Modular and Efficient Protocols** |
 | | |
 | 10:15        || Break |
