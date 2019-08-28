@@ -25,8 +25,8 @@ date:   2019-01-01 09:00:00 +0100
 | 11:00        || [Gregory Neven, DFINITY](http://www.neven.org/) |
 |              || **On the Security of Two-Round Multi-Signatures** |
 | | |
-| 11:35        || [Carmela Troncoso, EPFL](http://carmelatroncoso.com/) |
-|              || **DataShare: A Scalable Decentralized Privacy-preserving Search for Investigative Journalists** |
+| 11:35        || [Serge Vaudenay, EPFL](//lasec.epfl.ch/people/vaudenay) |
+|              || **The Difficulty of Secure Ratcheting** |
 | | |
 | 12:10        || Lunch |
 | | |
@@ -38,8 +38,8 @@ date:   2019-01-01 09:00:00 +0100
 | | |
 | 15:10        || Break |
 | | |
-| 16:00        || [Serge Vaudenay, EPFL](//lasec.epfl.ch/people/vaudenay) |
-|              || **The Difficulty of Secure Ratcheting** |
+| 16:00        || [Anja Lehmann, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-ANJ) |]
+|              || **Updatable Encryption and Key Rotation** |
 | | |
 | 16:35        || [Christian Cachin, Uni Bern](//crypto.unibe.ch/cc/) |
 |              || **Distributed Cryptography, Consensus and Blockchains** |
