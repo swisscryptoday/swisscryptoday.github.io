@@ -38,7 +38,7 @@ date:   2019-01-01 09:00:00 +0100
 | | |
 | 15:10        || Break |
 | | |
-| 16:00        || [Anja Lehmann, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-ANJ) |]
+| 16:00        || [Anja Lehmann, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-ANJ) |
 |              || **Updatable Encryption and Key Rotation** |
 | | |
 | 16:35        || [Christian Cachin, Uni Bern](//crypto.unibe.ch/cc/) |
