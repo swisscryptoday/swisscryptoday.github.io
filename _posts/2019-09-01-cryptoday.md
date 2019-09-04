@@ -31,7 +31,7 @@ date:   2019-01-01 09:00:00 +0100
 | 12:10        || Lunch |
 | | |
 | 14:00        || [Ueli Maurer, ETHZ](//crypto.ethz.ch/~maurer/) |
-|              || **Constructive Cryptography and Discrete System Theory** |
+|              || **Adversaryless Cryptography** |
 | | |
 | 14:35        || [Vadim Lyubashevsky, IBM Research - Zurich](//researcher.watson.ibm.com/researcher/view.php?person=zurich-VAD) |
 |              || **Zero-Knowledge Proofs for Lattice Relations** |
