@@ -9,7 +9,7 @@ permalink: /about/
 The Swiss Crypto Day is an informal event to promote research in cryptology
 in Switzerland.  It will take place at irregular intervals.
 
-The first edition takes place in September 2019 and is hosted by the
+The first edition took place in September 2019 and was hosted by the
 crypto group at the [University of Bern](//crypto.unibe.ch).
 
 There is a mailing list for announcements about the Swiss Crypto Day.
