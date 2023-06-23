@@ -10,8 +10,8 @@ date:   2023-06-23 18:00:00 +0100
 
 ### Announcement
 
-The second Swiss Crypto Day will take place on 8 September 2023 at ETH Zurich.
-Please save the date.
+After a 3 year long hiatus, we’re excited to announce that the second Swiss Crypto Day will be taking place at ETH Zürich on Friday 8 September 2023.
 
-More information will be posted here.
+Over the coming weeks, we will keep everyone updated via the mailing list and this website. Please save the date and circulate this email/mailing list with your colleagues.
 
+We will have a select number of talks that day. If you would like to nominate yourself to give a talk, please email us at swisscryptoday23(at)gmail(dot)com with your name, talk title, and abstract. We will notify you in due course if your talk is selected.
