@@ -27,6 +27,7 @@ permalink: /groups/
 <!-- Zürich -->
 - [DFINITY - Zurich](//dfinity.org/team/#research)
 - [ETHZ - Applied Cryptography](http://www.appliedcrypto.ethz.ch/)
+- [ETHZ - Foundations of Cryptography](https://foc.ethz.ch/)
 - [ETHZ - Information Security and Cryptography](https://crypto.ethz.ch/)
 - [ETHZ - Distributed Computing](//disco.ethz.ch/)
 - [ETHZ - Information Security](http://www.infsec.ethz.ch/)
