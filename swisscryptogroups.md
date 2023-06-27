@@ -15,6 +15,7 @@ This is an ever-growing and ever-changing list. If you would like us to add your
 <!-- Biel -->
 - [BFH, RISIS, E-Voting Group](//e-voting.bfh.ch/)
 <!-- Lausanne -->
+- [Cyber-Defence Campus](https://cydcampus.ch)
 - [EPFL - DEDIS](//dedis.epfl.ch/)
 - [EPFL - LACAL](//lacal.epfl.ch/)
 - [EPFL - LASEC](//lasec.epfl.ch/)
