@@ -8,8 +8,6 @@ permalink: /groups/
 
 ### Swiss research groups in cryptology and related fields
 
-This is an ever-growing and ever-changing list. If you would like us to add your group to the list, please email us at  swisscryptoday23(at)gmail(dot)com with your group name and preferred link.  
-
 <!-- Bern -->
 - [University of Bern](//crypto.unibe.ch/)
 <!-- Biel -->
