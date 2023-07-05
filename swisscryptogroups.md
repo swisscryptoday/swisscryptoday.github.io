@@ -35,4 +35,5 @@ permalink: /groups/
 - [ETHZ - Network Security](//netsec.ethz.ch/)
 - [ETHZ - System Security](http://www.syssec.ethz.ch/)
 - [University of Zurich](//user.math.uzh.ch/rosenthal/)
+- [Kudelski Security](https://research.kudelskisecurity.com/)
 
