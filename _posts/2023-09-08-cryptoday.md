@@ -14,6 +14,8 @@ After a 3 year long hiatus, we’re excited to announce that the second Swiss Cr
 
 Over the coming weeks, we will keep everyone updated via the mailing list and this website. Please save the date and circulate this announcement with your colleagues.
 
-We will have a select number of talks that day. If you would like to nominate yourself to give a talk, please email us at swisscryptoday23(at)gmail(dot)com with your name, talk title, and abstract. We will notify you in due course if your talk is selected.
+~~We will have a select number of talks that day. If you would like to nominate yourself to give a talk, please email us at swisscryptoday23(at)gmail(dot)com with your name, talk title, and abstract. We will notify you in due course if your talk is selected.~~
+
+At this point in time we are no longer acccepting talk proposal. We will be sharing the final program soon.
 
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
