@@ -16,6 +16,6 @@ Over the coming weeks, we will keep everyone updated via the mailing list and th
 
 ~~We will have a select number of talks that day. If you would like to nominate yourself to give a talk, please email us at swisscryptoday23(at)gmail(dot)com with your name, talk title, and abstract. We will notify you in due course if your talk is selected.~~
 
-At this point in time we are no longer acccepting talk proposal. We will be sharing the final program soon.
+At this point in time we are no longer acccepting talk proposals. We will be sharing the final program in the upcoming weeks. Stay up to date via the mailing list or check back here again soon!
 
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
