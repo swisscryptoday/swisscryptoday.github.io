@@ -14,7 +14,9 @@ After a 3 year long hiatus, we’re excited to announce that the second Swiss Cr
 
 #### When: 8 September 2023, 9:00 - 17:00
 
+ 
 #### Where: CAB G 61, Universitätstrasse 6, 8006 Zürich
+  
 
 #### Speaker list:
 
