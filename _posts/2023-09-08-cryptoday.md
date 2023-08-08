@@ -10,12 +10,29 @@ date:   2023-06-23 18:00:00 +0100
 
 ### Announcement
 
-After a 3 year long hiatus, we’re excited to announce that the second Swiss Crypto Day will be taking place at ETH Zürich on Friday 8 September 2023.
+After a 3 year long hiatus, we’re excited to announce that the second Swiss Crypto Day will be taking place at ETH Zürich on Friday 8 September 2023. Details can be found below, with more program details to follow! 
 
-Over the coming weeks, we will keep everyone updated via the mailing list and this website. Please save the date and circulate this announcement with your colleagues.
+#### When: 8 September 2023, 9:00 - 17:00
 
-~~We will have a select number of talks that day. If you would like to nominate yourself to give a talk, please email us at swisscryptoday23(at)gmail(dot)com with your name, talk title, and abstract. We will notify you in due course if your talk is selected.~~
+#### Where: CAB G 61, Universitätstrasse 6, 8006 Zürich
 
-At this point in time we are no longer acccepting talk proposals. We will be sharing the final program in the upcoming weeks!
+#### Speaker list:
+
+- Paul Bottinelli (NCC Group)
+- Alessandro Chiesa (EPFL)
+- Daniel Collins (EPFL)
+- Julia Hesse (IBM)
+- Karen Klein (ETH Zurich)
+- Katerina Mitrokotsa (University of St. Gallen)
+- Ioana Nedelcu (Google)
+- Anu Unnikrishnan (ETH Zurich)
+
+#### Registration: 
+
+Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday23@gmail.com` by August 31</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
+
+[Registration Link](https://forms.gle/TuoefUbwBF87YzjT8)
+
+#### Mailing list:
 
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
