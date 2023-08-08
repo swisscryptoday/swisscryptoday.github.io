@@ -24,11 +24,11 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 - Paul Bottinelli (NCC Group)
 - Alessandro Chiesa (EPFL)
 - Daniel Collins (EPFL)
-- Julia Hesse (IBM)
-- Karen Klein (ETH Zurich)
+- Julia Hesse (IBM Research - Zürich)
+- Karen Klein (ETH Zürich)
 - Katerina Mitrokotsa (University of St. Gallen)
 - Ioana Nedelcu (Google)
-- Anu Unnikrishnan (ETH Zurich)
+- Anu Unnikrishnan (ETH Zürich)
 
 ##### Registration: 
 
