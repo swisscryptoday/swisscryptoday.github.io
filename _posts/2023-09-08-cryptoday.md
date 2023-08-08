@@ -34,7 +34,7 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 
 Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday23@gmail.com` by August 31</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
 
-[Registration Link](https://forms.gle/TuoefUbwBF87YzjT8)
+[Registration Link](https://forms.gle/jxq9RizniwxsyXR16)
 
 Once you have registered, we will confirm your participation or spot on the waitlist by email.
 
