@@ -26,7 +26,7 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 - Daniel Collins (EPFL)
 - Julia Hesse (IBM Research - Zürich)
 - Karen Klein (ETH Zürich)
-- Tapas Pal (University of St. Gallen & NTT Research) and Katerina Mitrokotsa (University of St. Gallen)
+- Tapas Pal (NTT Corporation Japan & University of St. Gallen) and Katerina Mitrokotsa (University of St. Gallen)
 - Ioana Nedelcu (Google)
 - Anu Unnikrishnan (ETH Zürich)
 
