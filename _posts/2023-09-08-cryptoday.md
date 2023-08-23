@@ -25,6 +25,7 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 |-------------|-----------------------------|
 | 9:00-9:10   | Opening Remarks             | 
 | 9:10-9:50   | Karen Klein (ETH Zürich) <br> <b>A New Rewinding Technique for Proving Adaptive Security</b>   |
+| | |
 | 9:50-10:30  | Anu Unnikrishnan (ETH Zürich)<br> <b>Probabilistic Data Structures in Adversarial Settings </b>|
 | 10:30-11:00 | Znünipause                  |
 | 11:00-11:40 | Julia Hesse (IBM Research - Zürich) <br> <b>Security Analysis of the WhatsApp End-to-End Encrypted Backup Protocol</b>|
