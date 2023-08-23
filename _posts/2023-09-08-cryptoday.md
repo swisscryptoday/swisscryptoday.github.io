@@ -20,7 +20,6 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 
 ##### Program:
 
-| Time || Scheduled Talk      |
 |:-------------||-------------|
 |  9:00-9:10   || **Opening Remarks** |
 |  9:10-9:50   || [Karen Klein (ETH Zürich)](https://foc.ethz.ch/people/karenklein.html) |
