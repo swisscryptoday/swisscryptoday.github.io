@@ -17,7 +17,11 @@ After a 3 year long hiatus, we’re excited to announce that the second Swiss Cr
  
 ##### Where: 
 CAB G 61, Universitätstrasse 6, 8006 Zürich
-  
+
+
+  <summary>Hello</summary>
+  World!
+
 
 ##### Program:
 
@@ -25,7 +29,8 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 |:-------------||-------------|
 |  9:00-9:10   || **Opening Remarks** |
 |  9:10-9:50   || [Karen Klein (ETH Zürich)](https://foc.ethz.ch/people/karenklein.html) |
-|              || **A New Rewinding Technique for Proving Adaptive Security** |
+|              ||  <details open><summary>**A New Rewinding Technique for Proving Adaptive Security**</summary>For many cryptographic primitives, it is relatively easy to achieve selective security (where the adversary commits a-priori to some of the choices to be made later in the attack) but has shown difficult to achieve the more natural notion of adaptive security (where the adversary can make all choices on-the-fly as the attack progresses). A prominent example is the construction of prefix-constrained pseudorandom functions by Goldreich, Goldwasser and Micali [GGM84]. In this talk we discuss the difficulty of proving adaptive security of the GGM construction and how we could finally solve the problem using a novel rewinding technique.
+This talk is based on joint work with Dennis Hofheinz and Julia Kastner.</details> |
 |  9:50-10:30  || [Anu Unnikrishnan (ETH Zürich)](https://www.anu-unnikrishnan.com/) |
 |              || **Probabilistic Data Structures in Adversarial Settings** |
 | 10:30-11:00  || Znünipause |
