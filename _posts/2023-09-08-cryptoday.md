@@ -35,7 +35,7 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 |              || **Cryptographic Administration for Secure Group Messaging** |
 | 12:30-13:30  || Lunch |
 | 13:30-14:10  || Ioana Nedelcu (Google) |
-|              || **Adversaryless Cryptography** |
+|              || **Tink - A Journey of Secure and User-Friendly Applied Cryptography at Google** |
 | 14:10-14:50  || [Paul Bottinelli (NCC Group)](https://research.nccgroup.com/author/pbottine/) |
 |              || **Crypto Vulnerabilities in the Wild** |
 | 14:50-15:20  || Zvieripause |
