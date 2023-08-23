@@ -40,7 +40,7 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 |              || **Crypto Vulnerabilities in the Wild** |
 | 14:50-15:20  || Zvieripause |
 | 15:20-16:00  || Tapas Pal (NTT Corporation Japan & Univ. of St. Gallen) and [Katerina Mitrokotsa (Univ. of St. Gallen)] (https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/2e889d58-6b54-431b-ae0e-3198ed46444a/)|
-|              || **Updatable Encryption and Key Rotation** |
+|              || **Inner Product Functional Encryption for the Real World** |
 | 16:00-16:40  || [Alessandro Chiesa (EPFL)](https://people.epfl.ch/alessandro.chiesa?lang=en) 
 |              || **TBD** |
 | 16:40-17:00  || **Adjourn** |
