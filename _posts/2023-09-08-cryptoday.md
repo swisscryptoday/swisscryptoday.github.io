@@ -43,7 +43,7 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 |              || **Inner Product Functional Encryption for the Real World** |
 | 16:00-16:40  || [Alessandro Chiesa (EPFL)](https://people.epfl.ch/alessandro.chiesa?lang=en) 
 |              || **TBD** |
-| 16:40-17:00  || **Adjourn** |
+| 16:40-16:50  || **Closing Remarks** |
 | | | |
 
 
