@@ -18,11 +18,6 @@ After a 3 year long hiatus, we’re excited to announce that the second Swiss Cr
 ##### Where: 
 CAB G 61, Universitätstrasse 6, 8006 Zürich
 
-
-  <summary>Hello</summary>
-  World!
-
-
 ##### Program:
 
 | Time || Scheduled Talk      |
@@ -31,20 +26,20 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 |  9:10-9:50   || [Karen Klein (ETH Zürich)](https://foc.ethz.ch/people/karenklein.html) |
 |              ||  <details **A New Rewinding Technique for Proving Adaptive Security**>For many cryptographic primitives, it is relatively easy to achieve selective security (where the adversary commits a-priori to some of the choices to be made later in the attack) but has shown difficult to achieve the more natural notion of adaptive security (where the adversary can make all choices on-the-fly as the attack progresses). A prominent example is the construction of prefix-constrained pseudorandom functions by Goldreich, Goldwasser and Micali [GGM84]. In this talk we discuss the difficulty of proving adaptive security of the GGM construction and how we could finally solve the problem using a novel rewinding technique.This talk is based on joint work with Dennis Hofheinz and Julia Kastner.</details> |
 |  9:50-10:30  || [Anu Unnikrishnan (ETH Zürich)](https://www.anu-unnikrishnan.com/) |
-|              || **Probabilistic Data Structures in Adversarial Settings** |
+|              || <details **Probabilistic Data Structures in Adversarial Settings**></details> |
 | 10:30-11:00  || Znünipause |
 | 11:00-11:40  || [Julia Hesse (IBM Research - Zürich)](https://research.ibm.com/people/julia-hesse) |
-|              || **Security Analysis of the WhatsApp End-to-End Encrypted Backup Protocol** |
+|              || <details **Security Analysis of the WhatsApp End-to-End Encrypted Backup Protocol**></details> |
 | 11:40-12:20  || [Daniel Collins (EPFL)](https://ic-people.epfl.ch/~dcollins/) |
-|              || **Cryptographic Administration for Secure Group Messaging** |
+|              || <details **Cryptographic Administration for Secure Group Messaging**></details> |
 | 12:30-13:30  || Lunch |
 | 13:30-14:10  || Ioana Nedelcu (Google) |
-|              || **Tink - A Journey of Secure and User-Friendly Applied Cryptography at Google** |
+|              || <details **Tink - A Journey of Secure and User-Friendly Applied Cryptography at Google**></details> |
 | 14:10-14:50  || [Paul Bottinelli (NCC Group)](https://research.nccgroup.com/author/pbottine/) |
-|              || **Crypto Vulnerabilities in the Wild** |
+|              || <details **Crypto Vulnerabilities in the Wild**></details> |
 | 14:50-15:20  || Zvieripause |
 | 15:20-16:00  || Tapas Pal (NTT Corporation Japan & Univ. of St. Gallen) and [Katerina Mitrokotsa (Univ. of St. Gallen)](https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/2e889d58-6b54-431b-ae0e-3198ed46444a/)|
-|              || **Inner Product Functional Encryption for the Real World** |
+|              || <details **Inner Product Functional Encryption for the Real World**></details> |
 | 16:00-16:40  || [Alessandro Chiesa (EPFL)](https://people.epfl.ch/alessandro.chiesa?lang=en) 
 |              || **TBD** |
 | 16:40-16:50  || **Closing Remarks** |
