@@ -21,22 +21,42 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 
 ##### Program:
 
-| Time        | Scheduled Talk              |
-|-------------|-----------------------------|
-| 9:00-9:10   | Opening Remarks             | 
-| 9:10-9:50   | Karen Klein (ETH Zürich) <br> <b>A New Rewinding Technique for Proving Adaptive Security</b>   |
+| Time || Scheduled Talk      |
+|:-------------||-------------|
+|  9:00-9:10   || **Opening Remarks** |
 | | |
-| 9:50-10:30  | Anu Unnikrishnan (ETH Zürich)<br> <b>Probabilistic Data Structures in Adversarial Settings </b>|
-| 10:30-11:00 | Znünipause                  |
-| 11:00-11:40 | Julia Hesse (IBM Research - Zürich) <br> <b>Security Analysis of the WhatsApp End-to-End Encrypted Backup Protocol</b>|
-| 11:40-12:20 | Daniel Collins (EPFL) <br> <b>Cryptographic Administration for Secure Group Messaging</b> |
-| 12:30-13:30 | Lunch                       |
-| 13:30-14:10 | Ioana Nedelcu (Google) <br> <b>Tink - A Journey of Secure and User-Friendly Applied Cryptography at Google</b>   |
-| 14:10-14:50 | Paul Bottinelli (NCC Group) <br> <b> Crypto Vulnerabilities in the Wild</b>       |
-| 14:50-15:20 | Zvieripause                 |
-| 15:20-16:00 | Tapas Pal (NTT Corporation Japan & Univ. of St. Gallen) and Katerina Mitrokotsa (Univ. of St. Gallen) <br>  <b>Inner Product Functional Encryption for the Real World</b>|
-| 16:00-16:40 | Alessandro Chiesa (EPFL) <br> <b>TBD</b>  |
-| 16:40-17:00 | Closing remarks             |
+|  9:10-9:50   || [Karen Klein (ETH Zürich)](https://foc.ethz.ch/people/karenklein.html) |
+|              || **A New Rewinding Technique for Proving Adaptive Security** |
+| | |
+|  9:50-10:30  || [Anu Unnikrishnan (ETH Zürich)](https://www.anu-unnikrishnan.com/) |
+|              || **Probabilistic Data Structures in Adversarial Settings** |
+| | |
+| 10:30-11:00  || Znünipause |
+| | |
+| 11:00-11:40  || [Julia Hesse (IBM Research - Zürich)](https://research.ibm.com/people/julia-hesse) |
+|              || **Security Analysis of the WhatsApp End-to-End Encrypted Backup Protocol** |
+| | |
+| 11:40-12:20  || [Daniel Collins (EPFL)](https://ic-people.epfl.ch/~dcollins/) |
+|              || **Cryptographic Administration for Secure Group Messaging** |
+| | |
+| 12:30-13:30  || Lunch |
+| | |
+| 13:30-14:10  || Ioana Nedelcu (Google) |
+|              || **Adversaryless Cryptography** |
+| | |
+| 14:10-14:50  || [Paul Bottinelli (NCC Group)](https://research.nccgroup.com/author/pbottine/) |
+|              || **Crypto Vulnerabilities in the Wild** |
+| | |
+| 14:50-15:20  || Zvieripause |
+| | |
+| 15:20-16:00  || Tapas Pal (NTT Corporation Japan & Univ. of St. Gallen) and [Katerina Mitrokotsa (Univ. of St. Gallen) (https://www.unisg.ch/en/university/about-us/organisation/detail/person-id/2e889d58-6b54-431b-ae0e-3198ed46444a/)|
+|              || **Updatable Encryption and Key Rotation** |
+| | |
+| 16:00-16:40  || [Alessandro Chiesa (EPFL)](https://people.epfl.ch/alessandro.chiesa?lang=en) 
+|              || **TBD** |
+| | |
+| 16:40-17:00  || **Adjourn** |
+| | | |
 
 
 ##### Registration: 
