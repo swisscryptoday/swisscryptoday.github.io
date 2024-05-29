@@ -19,9 +19,9 @@ To subscribe, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postori
 - [Bay Area Crypto Day](https://bacrypto.github.io/)
 - [Charles River Crypto Day](https://bostoncryptoday.wordpress.com/)
 - [DC Area Crypto Day](https://dcareacryptoday.wordpress.com/)
-- [Greater Tel Aviv Area Crypto Seminar](http://www.cs.tau.ac.il/cseminar/)
 - [London Crypto Day](https://londoncryptoday.wordpress.com/)
 - [New York Crypto Day](https://nycryptoday.wordpress.com/)
+- [Texas Crypto Day](https://texascryptoday.github.io/)
 - [Tokyo Crypto Day](https://tokyocryptoday.github.io/)
 - [Paris Crypto Day](https://pariscryptoday.github.io/)
 
