@@ -23,7 +23,7 @@ future: true
 date_format: "%-d %b %Y"
 
 # Set plugins
-plugins:
+plugins_dir:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate

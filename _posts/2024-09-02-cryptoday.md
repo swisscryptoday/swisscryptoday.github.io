@@ -1,25 +1,27 @@
 ---
 layout: post
-title:  "8 September 2023, ETH Zurich"
+title:  "2 September 2024, University of St. Gallen"
 title_extra: "[Swiss Crypto Day](/)"
 feature_image: "/assets/swisscryptoday-white.jpg"
-# category: "History Events"
-permalink: /2023/
-date:   2023-06-23 18:00:00 +0100
+# category: "Active Event"
+permalink: /2024/
+date:   2024-06-10 10:00:00 +0100
 ---
 
 <!-- ##### Place holder -->
 
-After a 3 year long hiatus, we’re excited to announce that the second Swiss Crypto Day will be taking place at ETH Zürich on Friday 8 September 2023.
+We’re excited to announce that the third Swiss Crypto Day will be taking place at University of St. Gallen on Monday, September 2nd, 2024.
 
 ##### When: 
-8 September 2023, 9:00 - 17:00
+September 2nd, 2024, 9:00 - 17:00
  
-##### Where: 
-CAB G 61, Universitätstrasse 6, 8006 Zürich
+##### Where:
+SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 
-##### Program:
+{% include map.html id="1osiQeBngJW6lRDk51YUe-AsvoX2P27c" title="SQUARE at the University of St. Gallen" %}
 
+##### Program (TBD)
+<!-- 
 |:-------------||-------------|
 |  9:00-9:10   || **Opening Remarks** |
 |  9:10-9:50   || [Karen Klein (ETH Zürich)](https://foc.ethz.ch/people/karenklein.html) |
@@ -42,17 +44,16 @@ CAB G 61, Universitätstrasse 6, 8006 Zürich
 | 16:00-16:40  || [Alessandro Chiesa (EPFL)](https://people.epfl.ch/alessandro.chiesa?lang=en) 
 |              || **Subquadratic SNARGs in the Random Oracle Model** <details close>In a seminal work, Micali (FOCS 1994) gave the first succinct non-interactive argument (SNARG) in the random oracle model (ROM). The construction combines a PCP and a cryptographic commitment, and has several attractive features: it is plausibly post-quantum; it can be heuristically instantiated via lightweight cryptography; and it has a transparent (public-coin) parameter setup. However, it also has a significant drawback: a large argument size. In this talk I will describe a construction that achieves a smaller argument size. This is the first progress on the Micali construction since it was introduced over 25 years ago. This is joint work with Eylon Yogev.</details> |
 | 16:40-16:50  || **Closing Remarks** |
-| | | |
+| | | | -->
 
 
 ##### Registration: 
 
-Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday23@gmail.com` by September 6</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
+Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday24@gmail.com` by August 31</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
 
-[Registration Link](https://forms.gle/jxq9RizniwxsyXR16)
+[Registration Link](https://forms.gle/bYF4QZyK4U8hkqkk9)
 
 Once you have registered, we will confirm your participation or spot on the waitlist by email.
 
 ##### Mailing list:
-
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.

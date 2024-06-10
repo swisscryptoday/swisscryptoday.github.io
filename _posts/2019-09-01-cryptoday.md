@@ -3,10 +3,14 @@ layout: post
 title:  "5 September 2019, University of Bern"
 title_extra: "[Swiss Crypto Day](/)"
 feature_image: "/assets/swisscryptoday-white.jpg"
+# category: "History Events"
 permalink: /2019/
 date:   2019-01-01 09:00:00 +0100
 ---
 
+<!-- ##### Place holder -->
+
+<!-- The first **Swiss Crypto Day** is scheduled on 5 September 2019, University of Bern. -->
 
 ### Program
 
