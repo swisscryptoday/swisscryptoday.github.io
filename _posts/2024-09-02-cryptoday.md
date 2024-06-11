@@ -10,7 +10,7 @@ date:   2024-06-10 10:00:00 +0100
 
 <!-- ##### Place holder -->
 
-We’re excited to announce that the third Swiss Crypto Day will be taking place at University of St. Gallen on Monday, September 2nd, 2024.
+We are excited to announce that the third Swiss Crypto Day will be held at the University of St. Gallen on Monday, September 2nd, 2024.
 
 ##### When: 
 September 2nd, 2024, 9:00 - 17:00
@@ -20,7 +20,16 @@ SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 
 {% include map.html id="1osiQeBngJW6lRDk51YUe-AsvoX2P27c" title="SQUARE at the University of St. Gallen" %}
 
-##### Program (TBD)
+##### Program (TBD):
+
+You are invited to submit a proposal for presentations on the following submission form.
+
+[Call for presentation](https://forms.gle/4tu2idJWzqbUBCah8)
+
+The deadline for submissions is **July 10th**.
+Decisions will be communicated by **July 25th**.
+
+
 <!-- 
 |:-------------||-------------|
 |  9:00-9:10   || **Opening Remarks** |
@@ -46,12 +55,11 @@ SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 | 16:40-16:50  || **Closing Remarks** |
 | | | | -->
 
+##### Registration:
 
-##### Registration: 
+Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25th. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday24@gmail.com` by August 31th</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
 
-Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday24@gmail.com` by August 31</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
-
-[Registration Link](https://forms.gle/bYF4QZyK4U8hkqkk9)
+[Registration Link](https://forms.gle/iiNT9zUUwfecXcpY9)
 
 Once you have registered, we will confirm your participation or spot on the waitlist by email.
 
