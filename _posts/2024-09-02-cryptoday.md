@@ -18,7 +18,7 @@ September 2nd, 2024, 9:00 - 17:00
 ##### Where:
 SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 
-{% include map.html id="1Ef6r_PHZlfq69foHlJxZIfdtJtlJTL8" title="SQUARE at the University of St. Gallen" %}
+<!-- {% include map.html id="1Ef6r_PHZlfq69foHlJxZIfdtJtlJTL8" title="SQUARE at the University of St. Gallen" %} -->
 
 ##### Program (TBD):
 
