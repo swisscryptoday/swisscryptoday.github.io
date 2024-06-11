@@ -24,9 +24,10 @@ SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 
 You are invited to submit a proposal for presentations on the following submission form.
 
-[Call for presentation](https://forms.gle/4tu2idJWzqbUBCah8)
+[Call for Presentations/Nominations](https://forms.gle/4tu2idJWzqbUBCah8)
 
 The deadline for submissions is **July 10th**.
+
 Decisions will be communicated by **July 25th**.
 
 
