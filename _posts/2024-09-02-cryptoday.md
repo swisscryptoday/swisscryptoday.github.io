@@ -60,8 +60,8 @@ Shufflecake is the result of a multi-year research aimed at solving fundamental 
 Reed–Solomon codes that achieves the best known query complexity of any concretely efficient IOPP for this problem. For λ bits of security, STIR has query complexity O(log d+λ· loglog d), while FRI, a popular protocol, has query complexity O(λ·log d) (including variants of FRI based on conjectured security assumptions). STIR relies on a new technique for recursively improving the rate of the tested Reed–Solomon code. We provide an implementation of STIR compiled to a SNARK. Compared to a highly optimized implementation of FRI, STIR achieves an improvement in argument size that ranges from 1.25× to 2.46× depending on the chosen parameters, with similar prover and verifier running times. For example, in order to achieve 128 bits of security for degree 226 and rate 1/4, STIR has argument size 114 KiB, compared to 211 KiB for FRI.</details> |
 | 16:25-16:55  || [Ziyi Guan (EPFL)](https://ziyiguan.github.io/) 
 |              || **Security Bounds for Proof-Carrying Data from Straightline Extractors** <details close>Proof-carrying data (PCD) is a widely used cryptographic primitive that can be obtained by recursively-composing SNARKs or related primitives. However, these constructions do not come with security analyses that yield useful concrete security bounds. In this work we show that the PCD obtained from SNARKs with straightline knowledge soundness has essentially the same security as the underlying SNARK. In this setting, recursive composition incurs no security loss. As a notable application, our work offers an idealized model that provides useful, albeit heuristic, guidance for setting the security parameters of recursive STARKs currently used in blockchain systems. Based on https://eprint.iacr.org/2023/1646.pdf, joint work with Alessandro Chiesa, Shahar Samocha, and Eylon Yogev. </details> |
-| 16:55-17:10  || **Closing Remarks** |
-| | | | -->
+| 16:55-17:10  || **Closing Remarks** |-->
+| | | | 
 
 ##### Registration:
 
