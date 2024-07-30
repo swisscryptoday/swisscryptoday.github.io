@@ -20,8 +20,6 @@ SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 
 <!-- {% include map.html id="1Ef6r_PHZlfq69foHlJxZIfdtJtlJTL8" title="SQUARE at the University of St. Gallen" %} -->
 
-##### Program:
-
 <!-- You are invited to submit a proposal for presentations on the following submission form.
 
 [Call for Presentations/Nominations](https://forms.gle/4tu2idJWzqbUBCah8)
@@ -30,6 +28,8 @@ The deadline for submissions is **July 10th**.
 
 Decisions will be communicated by **July 25th**. -->
 
+##### Program:
+
 |:-------------||-------------|
 |  9:00-9:15   || **Opening Remarks** |
 |  9:15-9:45   || [Nan Cheng (University of St. Gallen)](https://nancheng.me/) |
@@ -37,7 +37,7 @@ Decisions will be communicated by **July 25th**. -->
 |  9:50-10:30  || [Chen Da-Liu Zhang (Uni Luzern)](https://sites.google.com/view/chendaliu/about-me?authuser=0) |
 |              || **Asynchronous Multi-Party Computation with Linear Communication and Optimal Resilience**  <details close>Secure multi-party computation (MPC) allows a set of parties to jointly compute a function over their private inputs. The seminal works of Ben-Or, Canetti and Goldreich [STOC '93] and Ben-Or, Kelmer and Rabin [PODC '94] settled the feasibility of MPC over asynchronous networks. Despite the significant line of work devoted to improving the communication complexity, current protocols with information-theoretic security and optimal resilience communicate \Omega(n^4C) field elements for a circuit with C multiplication gates. In contrast, synchronous MPC protocols with O(nC) communication have long been known. In this work we provide the first asynchronous MPC protocol with optimal resilience and linear O(nC) communication. The protocol makes black-box use of an asynchronous complete secret-sharing (ACSS) protocol, where the cost per multiplication reduces to the cost of distributing a constant number of sharings via ACSS, improving a linear factor over the state of the art by Choudhury and Patra [IEEE Trans. Inf. Theory '17]. Instantiating the ACSS with the concurrent work by Ji, Li and Song [CRYPTO '24] achieving linear cost per sharing, the result follows.</details>  |
 | 10:15-10:45  || Znünipause |
-| 10:45-11:15  || [Anna-Lena Horlemann (University of St. Gallen)](http://user.math.uzh.ch/trautmann/Home.html) |
+<!-- | 10:45-11:15  || [Anna-Lena Horlemann (University of St. Gallen)](http://user.math.uzh.ch/trautmann/Home.html) |
 |              || **TBD** <details close></details>|
 | 11:15-11:45  || Abhinaba Mazumder and Michael Schaller (UZH) |
 |              || **Information Set Decoding for Convolutional Codes** <details close>We present generic decoding algorithms for McEliece type systems that use (non-tail-biting) convolutional codes and show how to use them to reduce the security of two proposed cryptosystems. We were able to successfully recover many of the errors used in the encryption in less than 10 hours.</details>|
@@ -61,7 +61,7 @@ Reed–Solomon codes that achieves the best known query complexity of any concre
 | 16:25-16:55  || [Ziyi Guan (EPFL)](https://ziyiguan.github.io/) 
 |              || **Security Bounds for Proof-Carrying Data from Straightline Extractors** <details close>Proof-carrying data (PCD) is a widely used cryptographic primitive that can be obtained by recursively-composing SNARKs or related primitives. However, these constructions do not come with security analyses that yield useful concrete security bounds. In this work we show that the PCD obtained from SNARKs with straightline knowledge soundness has essentially the same security as the underlying SNARK. In this setting, recursive composition incurs no security loss. As a notable application, our work offers an idealized model that provides useful, albeit heuristic, guidance for setting the security parameters of recursive STARKs currently used in blockchain systems. Based on https://eprint.iacr.org/2023/1646.pdf, joint work with Alessandro Chiesa, Shahar Samocha, and Eylon Yogev. </details> |
 | 16:55-17:10  || **Closing Remarks** |
-| | | |
+| | | | -->
 
 ##### Registration:
 
