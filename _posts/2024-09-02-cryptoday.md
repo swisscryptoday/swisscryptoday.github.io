@@ -43,8 +43,7 @@ Decisions will be communicated by **July 25th**. -->
 - identification schemes and digital signatures
 - generic decoding 
 - structural attacks on public keys
-Finally, we will show how the metrics are related to each other (or other metrics) and which metric bears similarities with lattice-based cryptography.
-</details>|
+Finally, we will show how the metrics are related to each other (or other metrics) and which metric bears similarities with lattice-based cryptography.</details>|
 | 11:15-11:45  || [Abhinaba Mazumder](https://www.math.uzh.ch/en/people?semId=46&key1=35576&L=1) and [Michael Schaller](https://www.math.uzh.ch/en/people?key1=36001) (UZH) |
 |              || **Information Set Decoding for Convolutional Codes** <details close>We present generic decoding algorithms for McEliece type systems that use (non-tail-biting) convolutional codes and show how to use them to reduce the security of two proposed cryptosystems. We were able to successfully recover many of the errors used in the encryption in less than 10 hours.</details>|
 | 11:45-12:15  || [Luca De Feo (IBM)](https://defeo.lu/) |
