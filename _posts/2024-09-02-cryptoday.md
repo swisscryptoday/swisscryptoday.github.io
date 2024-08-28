@@ -31,6 +31,7 @@ Decisions will be communicated by **July 25th**. -->
 ##### Program:
 
 |:-------------||-------------|
+|  8:45-9:00   || **Registrations & Arrivals** |
 |  9:00-9:15   || **Opening Remarks** |
 |  9:15-9:45   || [Nan Cheng (University of St. Gallen)](https://nancheng.me/) |
 |              || **Communication Optimization in SS-FSS Hybrid 2PC** <details close>Calculating the distance between two non-normalized vectors X and Y using cos(X,Y), and comparing it to a predefined threshold τ, is crucial in privacy-sensitive applications such as biometric authentication, identification, machine learning algorithms (e.g., linear regression, k-nearest neighbors), and typo-tolerant password-based authentication. To enhance secure computation efficiency in this context, we propose a communication optimization method utilizing a novel building block, CondEval, conditionally (depends on a boolean secret sharing) evaluate a function secret sharing gate in one round. CondEval is designed to operate effectively in both semi-honest and malicious settings. By evaluating protocols derived from CondEval in the context of voice-based biometric authentication, the results demonstrated notable efficiency improvements over existing SOTAs. In this talk, I will give a step-by-step introduction to this technique and show its impact in practical application.</details> |
