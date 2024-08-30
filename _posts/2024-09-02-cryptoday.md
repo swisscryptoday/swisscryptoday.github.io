@@ -52,7 +52,7 @@ Decisions will be communicated by **July 25th**. -->
 | 14:15-14:35  || Break and Mentoring Session |
 | 14:35-15:05  || [Francesco Regazzoni (University of Amsterdam and Università della Svizzera italiana)](https://search.usi.ch/it/persone/3e64549cfe3f90540fbd2cb7a38a48bc/regazzoni-francesco)|
 |              || **Processor Customization for Side Channel Resistance** <details close></details> |
-| 15:05-15:35  || [Tommaso Giagliardoni (Kudelski security/Nagra)](https://gagliardoni.net/) 
+| 15:05-15:35  || [Tommaso Gagliardoni (Kudelski security/Nagra)](https://gagliardoni.net/) 
 |              || **2024 Update on Shufflecake: Plausible Deniability Is Even Sweeter** <details close>Shufflecake is an open-source data encryption tool that allows creation of hidden volumes on a storage device in such a way that it is very difficult, even under forensic inspection, to prove the existence of such volumes. This is useful for people whose freedom of expression is threatened by repressive authorities or dangerous criminal organizations, in particular: whistleblowers, investigative journalists, and activists for human rights in oppressive regimes. You can consider Shufflecake a "spiritual successor" of tools such as TrueCrypt and VeraCrypt, but vastly improved: it is fast, supports any filesystem of choice, and can concurrently manage multiple layers of nested decoy volumes, so to improve user experience and make deniability of the existence of these partitions really plausible. Shufflecake is the result of a multi-year research aimed at solving fundamental limitations of plausible deniability tools. It is under active development, and after the initial success (DEF CON Demo Labs, ACM CCS, and others) the community of contributors is growing, bringing new ideas and results to the table. In this talk we will present the history and limitations of other existing solutions, we will show how Shufflecake works and solves such limitations, and we will highlight recent improvements, both theoretical and practical. In particular, we will announce the release of the "Lite" version of Shufflecake, and we will present the official roadmap and plans for the release of the first Shufflecake-powered fully hidden OS.</details> |
 | 15:35-15:55  || Break |
 | 15:55-16:25  || [Giacomo Fenzi (EPFL)](https://gfenzi.io/) 
@@ -61,6 +61,10 @@ Decisions will be communicated by **July 25th**. -->
 |              || **Security Bounds for Proof-Carrying Data from Straightline Extractors** <details close>Proof-carrying data (PCD) is a widely used cryptographic primitive that can be obtained by recursively-composing SNARKs or related primitives. However, these constructions do not come with security analyses that yield useful concrete security bounds. In this work we show that the PCD obtained from SNARKs with straightline knowledge soundness has essentially the same security as the underlying SNARK. In this setting, recursive composition incurs no security loss. As a notable application, our work offers an idealized model that provides useful, albeit heuristic, guidance for setting the security parameters of recursive STARKs currently used in blockchain systems. Based on https://eprint.iacr.org/2023/1646.pdf, joint work with Alessandro Chiesa, Shahar Samocha, and Eylon Yogev. </details> |
 | 16:55-17:10  || **Closing Remarks** |
 ||||
+
+#####  Mentoring Event:
+
+We are excited to announce a special mentoring session during the Swiss Crypto Day workshop on September 2nd at HSG. This session will take place during the 14:15 - 14:35 break and offers a unique opportunity for students to engage in 1:1 mentoring with experienced professionals from academia and industry. We kindly invite all students to [register with the following link](https://forms.gle/kbRAFFXW8vNRs6oR8). Spaces are limited, so be sure to secure your spot early!
 
 ##### Registration:
 
