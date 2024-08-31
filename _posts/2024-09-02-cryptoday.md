@@ -70,9 +70,6 @@ We are excited to announce a special mentoring session during the Swiss Crypto D
 
 Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25th. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday24@gmail.com` by August 31th</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
 
-[Registration Link](https://forms.gle/iiNT9zUUwfecXcpY9)
-
-Once you have registered, we will confirm your participation or spot on the waitlist by email.
 
 ##### Mailing list:
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
