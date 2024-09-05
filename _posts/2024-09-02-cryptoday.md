@@ -29,6 +29,8 @@ SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen
 
 ##### Program
 
+<p></p>
+
 |:-------------||-------------|
 |  8:45-9:00   || **Registrations & Arrivals** |
 |  9:00-9:15   || **Opening Remarks** |
