@@ -5,7 +5,7 @@ title_extra: "[Swiss Crypto Day](/)"
 feature_image: "/assets/swisscryptoday-white.jpg"
 # category: "Active Event"
 permalink: /2024/
-date:   2024-06-10 10:00:00 +0100
+date:   2024-09-05 10:00:00 +0100
 ---
 
 <!-- ##### Place holder -->
@@ -17,6 +17,9 @@ Thank you to everyone who contributed to making Swiss Crypto Day 24 a fantastic 
 
 ![Swiss Crypto Day 2024 Photo](/assets/2024/group_photo.JPG)
 
+<p></p>
+
+Next year's Swiss Crypto Day will be organized at [USI](https://www.usi.ch/en). 
 
 <!-- ##### When -->
 <!-- September 2nd, 2024, 9:00 - 17:10 -->
@@ -25,13 +28,6 @@ Thank you to everyone who contributed to making Swiss Crypto Day 24 a fantastic 
 <!-- SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen -->
 
  
-##### Sponsors
-
-<p></p>
-
-<!-- [![City of St. Gallen](/assets/2024/city_sg.png)](//www.stadt.sg.ch/) | ![](/assets/2024/white.png) | [![Canton of St. Gallen](/assets/2024/canton_sg.png)](//www.sg.ch/)| ![](/assets/2024/white.png) | [![HSG Committee for Equality Diversity & Inclusion](/assets/2024/hsg.png)](//www.unisg.ch/en/universitaet/engagement/diversity-inclusion/) -->
-
-[![City of St. Gallen](/assets/2024/city_sg.png)](//www.stadt.sg.ch/)  | [![Canton of St. Gallen](/assets/2024/canton_sg.png)](//www.sg.ch/) | [![HSG Committee for Equality Diversity & Inclusion](/assets/2024/hsg.png)](//www.unisg.ch/en/universitaet/engagement/diversity-inclusion/)
 
 ##### Program
 
@@ -74,9 +70,18 @@ Thank you to everyone who contributed to making Swiss Crypto Day 24 a fantastic 
 
 We are excited to announce a special mentoring session during the Swiss Crypto Day workshop on September 2nd at HSG. This session will take place during the 12:15 - 13:15 lunch break and offers a unique opportunity for students to engage in 1:1 mentoring with experienced professionals from academia and industry. We kindly invite all students to [register with the following link](https://forms.gle/kbRAFFXW8vNRs6oR8). Spaces are limited, so be sure to secure your spot early!
 
-##### Registration
+##### Sponsors
 
-Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25th. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday24@gmail.com` by August 31th</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there!
+<p></p>
+
+<!-- [![City of St. Gallen](/assets/2024/city_sg.png)](//www.stadt.sg.ch/) | ![](/assets/2024/white.png) | [![Canton of St. Gallen](/assets/2024/canton_sg.png)](//www.sg.ch/)| ![](/assets/2024/white.png) | [![HSG Committee for Equality Diversity & Inclusion](/assets/2024/hsg.png)](//www.unisg.ch/en/universitaet/engagement/diversity-inclusion/) -->
+
+[![City of St. Gallen](/assets/2024/city_sg.png)](//www.stadt.sg.ch/)  | [![Canton of St. Gallen](/assets/2024/canton_sg.png)](//www.sg.ch/) | [![HSG Committee for Equality Diversity & Inclusion](/assets/2024/hsg.png)](//www.unisg.ch/en/universitaet/engagement/diversity-inclusion/)
+
+
+<!-- ##### Registration
+
+Please be advised that registration for this event is limited (i.e. limited seating and food). <b>Registration closes on August 25th. If your plans change and you are no longer able to attend, we ask that you email us at `swisscryptoday24@gmail.com` by August 31th</b> so that we can offer your registration to someone on the waitlist. We look forward to seeing you all there! -->
 
 ##### Mailing list
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
