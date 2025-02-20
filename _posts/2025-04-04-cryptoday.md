@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "2 September 2024, University of St. Gallen"
+title:  "4 April 2025, Università della Svizzera italiana"
 title_extra: "[Swiss Crypto Day](/)"
 feature_image: "/assets/swisscryptoday-white.jpg"
 # category: "Active Event"
-permalink: /2024/
-date:   2024-09-05 10:00:00 +0100
+permalink: /2025/
+date:   2025-04-04 10:00:00 +0100
 ---
 
 <!-- ##### Place holder -->
 
-<!-- We are excited to announce that the third Swiss Crypto Day will be held at the University of St. Gallen on Monday, September 2nd, 2024. -->
+<!-- We are excited to announce that the third Swiss Crypto Day will be held at the Università della Svizzera italiana on Friday, April 4th, 2025. -->
 
 
 Thank you to everyone who contributed to making Swiss Crypto Day 24 a fantastic event!  Also, thanks to our main sponsors - [City of St. Gallen](//www.stadt.sg.ch/), [Canton of St. Gallen](//www.sg.ch/) and [HSG Committee for Equality Diversity & Inclusion](//www.unisg.ch/en/universitaet/engagement/diversity-inclusion/)!
