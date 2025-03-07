@@ -33,35 +33,24 @@ date:   2025-04-04 10:00:00 +0100
 <p></p>
 
 |:-------------||-------------|
-|  8:45-9:00   || **Registrations & Arrivals** |
-|  9:00-9:15   || **Opening Remarks** |
-|  9:15-9:45   || [ ]() |
-|              || ** ** <>|
-|  9:45-10:15  ||  |
+|  10:00-10:015|| **Registrations & Arrivals** |
+|  10:15-10:30 || **Opening Remarks** |
+|  10:30-11:30 || Session 1 |
+|              ||           |
+| 11:30-12:00  || Coffee Break  |
 |              ||  |
-| 10:15-10:45  || Break |
-| 10:45-11:15  ||  |
+| 12:00-13:00  || Session 2 |
+|              ||           |
+| 13:00-14:30  || Lunch Break |
 |              ||  |
-| 11:15-11:45  ||  |
+| 14:30-15:30  || Session 3 |
 |              ||  |
-| 11:45-12:15  ||  |
+| 15:30-16:00  || Coffee Break |
 |              ||  |
-| 12:15-13:15  || Lunch and Mentoring Session |
-| 13:15-13:45  ||  |
+| 16:00-17:00  || Session 4 |
 |              ||  |
-| 13:45-14:15  ||  |
-|              ||  |
-| 14:15-14:35  || Break |
-| 14:35-15:05  ||  |
-|              ||  |
-| 15:05-15:35  ||  |
-|              ||  |
-| 15:35-15:55  || Break |
-| 15:55-16:25  ||  |
-|              ||  |
-| 16:25-16:55  ||  |
-|              ||  |
-| 16:55-17:10  || **Closing Remarks** <a href="https://drive.google.com/file/d/1l7kwt4RUsDhOitIwlw88beGzBx6R0XWp/view?usp=sharing" style="text-decoration: underline;">slides</a>|
+| 17:00-17:10  ||  **Closing Remarks**|
+
 ||||
 
 ##### Mailing list
