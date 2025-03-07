@@ -33,7 +33,7 @@ date:   2025-04-04 10:00:00 +0100
 <p></p>
 
 |:-------------||-------------|
-|  10:00-10:015|| **Registrations & Arrivals** |
+|  10:00-10:15 || **Registrations & Arrivals** |
 |  10:15-10:30 || **Opening Remarks** |
 |  10:30-11:30 || Session 1 |
 |              ||           |
