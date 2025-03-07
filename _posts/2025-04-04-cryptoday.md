@@ -27,10 +27,14 @@ date:   2025-04-04 10:00:00 +0100
 
 ##### Registration
 
-
+Participation is free of cost but is necessary for planning and organization.
 Please register at the following [Link](https://forms.office.com/e/gkUdqARkHV)
 
+Registration deadline 27th March 2025.
+
 ##### Program to be Announced
+
+The event will start at 10:30 AM and finish at 5:00 PM on the 4th April 2025.
 
 <p></p>
 
