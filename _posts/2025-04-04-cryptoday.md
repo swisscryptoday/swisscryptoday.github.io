@@ -24,17 +24,19 @@ date:   2025-04-04 10:00:00 +0100
 <!-- ##### Where -->
 <!-- SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen -->
 
- 
+
+##### Registration
 
 
+Please register at https://forms.office.com/e/gkUdqARkHV
 
 ##### Program
 
 <p></p>
 
 |:-------------||-------------|
-|  10:00-10:15 || **Registrations & Arrivals** |
-|  10:15-10:30 || **Opening Remarks** |
+|  10:00-10:25 || **Registrations & Arrivals** |
+|  10:25-10:30 || **Opening Remarks** |
 |  10:30-11:30 || Session 1 |
 |              ||           |
 | 11:30-12:00  || Coffee Break  |
