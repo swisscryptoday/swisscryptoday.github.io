@@ -26,8 +26,43 @@ date:   2025-04-04 10:00:00 +0100
 
  
 
-##### Program : To be Announced 
 
+
+##### Program
+
+<p></p>
+
+|:-------------||-------------|
+|  8:45-9:00   || **Registrations & Arrivals** |
+|  9:00-9:15   || **Opening Remarks** |
+|  9:15-9:45   || [ ]() |
+|              || ** ** <>|
+|  9:45-10:15  ||  |
+|              ||  |
+| 10:15-10:45  || Break |
+| 10:45-11:15  ||  |
+|              ||  |
+| 11:15-11:45  ||  |
+|              ||  |
+| 11:45-12:15  ||  |
+|              ||  |
+| 12:15-13:15  || Lunch and Mentoring Session |
+| 13:15-13:45  ||  |
+|              ||  |
+| 13:45-14:15  ||  |
+|              ||  |
+| 14:15-14:35  || Break |
+| 14:35-15:05  ||  |
+|              ||  |
+| 15:05-15:35  ||  |
+|              ||  |
+| 15:35-15:55  || Break |
+| 15:55-16:25  ||  |
+|              ||  |
+| 16:25-16:55  ||  |
+|              ||  |
+| 16:55-17:10  || **Closing Remarks** <a href="https://drive.google.com/file/d/1l7kwt4RUsDhOitIwlw88beGzBx6R0XWp/view?usp=sharing" style="text-decoration: underline;">slides</a>|
+||||
 
 ##### Mailing list
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
