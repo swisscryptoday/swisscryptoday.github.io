@@ -33,8 +33,7 @@ Please register at the following [Link](https://forms.office.com/e/gkUdqARkHV)
 Registration deadline 27th March 2025.
 
 
-##### Venue and Logistics
-
+<h1>Venue & Logistics</h1>
 <h3>Lugano, Switzerland</h3>
 
 
