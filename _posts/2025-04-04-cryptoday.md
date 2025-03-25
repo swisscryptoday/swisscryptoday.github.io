@@ -98,12 +98,12 @@ The <a href="http://www.inf.usi.ch">Faculty of Informatics</a> stands out as a c
 ##### Program to be Announced
 
 
-|--------------||-------------------------------|
+|:-------------||------------------------------:|
 |  10:00-10:25 || **Registrations & Arrivals**  | 
 |  10:25-10:30 || **Opening Remarks** 			|
 |  10:30-11:00 || Welcome Drinks                |
 |  11:00-12:30 || **Session 1**						|
-|  11:00-11:30 || [Guillaume Endignoux (Google)](https://nancheng.me/) |
+|  11:00-11:30 || [Guillaume Endignoux (Google)]|
 |              || **Post Quantum Cryptography in Tink** <a href="https://drive.google.com/file/d/1Cuc7NB83kwTZLXvKjwwdgK8HLhm3rarj/view?usp=sharing" style="text-decoration: underline;">slides</a>
  <details close>Tink is a multi-language, cross-platform, open source library that
 provides secure and easy-to-use cryptographic APIs, created and
