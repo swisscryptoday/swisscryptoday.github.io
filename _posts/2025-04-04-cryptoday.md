@@ -97,7 +97,37 @@ The <a href="http://www.inf.usi.ch">Faculty of Informatics</a> stands out as a c
 
 ##### Program to be Announced
 
-The event will start at 10:30 AM and finish at 5:00 PM on the 4th April 2025.
+
+|--------------||-------------------------------|
+|  10:00-10:25 || **Registrations & Arrivals**  | 
+|  10:25-10:30 || **Opening Remarks** 			|
+|  10:30-11:00 || Welcome Drinks                |
+|  11:00-12:30 || **Session 1**						|
+|  11:00-11:30 || [Guillaume Endignoux (Google)](https://nancheng.me/) |
+|              || **Post Quantum Cryptography in Tink** <a href="https://drive.google.com/file/d/1Cuc7NB83kwTZLXvKjwwdgK8HLhm3rarj/view?usp=sharing" style="text-decoration: underline;">slides</a>
+ <details close>Tink is a multi-language, cross-platform, open source library that
+provides secure and easy-to-use cryptographic APIs, created and
+maintained by cryptographers and security engineers at Google
+(https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdevelopers.google.com%2Ftink&data=05%7C02%7Csubhadeep.banik%40usi.ch%7Ca5665470c8864f82364f08dd6bce252d%7C95bdc5acafb54881801b3874f365cd6f%7C0%7C0%7C638785255298543702%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wJwH39af4WjT95pMmYYZUUHV50RkacEmAIONW7I5HdI%3D&reserved=0). In this talk, we will discuss how
+we are approaching the transition to post-quantum cryptography in Tink.
+In particular, we'll see how the baked-in key rotation architecture
+enables smooth rotation towards other algorithms. We'll also discuss
+where new challenges arise and how we're tackling them. For example, how
+to model the concept of a Key Encapsulation Mechanism (KEM), and how to
+best expose it as an API that follows our easy-to-use & hard-to-misuse
+philosophy.</details> |
+|              ||  								|
+|              ||  								|
+|  12:30-14:00 || Lunch Break 					|
+|              ||  								|
+|  14:00-15:00 || Session 2: Short Talks     	|
+|              ||  								|
+|  15:00-15:30 || Coffee Break 					|
+|              ||  								|
+|  15:30-17:00 || Session 3 					|
+|              ||  								|
+|  17:00-17:10 || **Closing Remarks**			|
+|--------------||-------------------------------|
 
 <p></p>
 
