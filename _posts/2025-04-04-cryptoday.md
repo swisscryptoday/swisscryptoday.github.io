@@ -105,18 +105,7 @@ The <a href="http://www.inf.usi.ch">Faculty of Informatics</a> stands out as a c
 |  10:30-11:00 || **Welcome Drinks** |
 |  11:00-12:30 || **Session 1** |
 |  11:00-11:30 || [Guillaume Endignoux (Google)] |
-|              || **Post Quantum Cryptography in Tink** <a href="https://drive.google.com/file/d/1Cuc7NB83kwTZLXvKjwwdgK8HLhm3rarj/view?usp=sharing" style="text-decoration: underline;">slides</a>
- <details close>Tink is a multi-language, cross-platform, open source library that
-provides secure and easy-to-use cryptographic APIs, created and
-maintained by cryptographers and security engineers at Google
-(https://developers.google.com/tink). In this talk, we will discuss how
-we are approaching the transition to post-quantum cryptography in Tink.
-In particular, we'll see how the baked-in key rotation architecture
-enables smooth rotation towards other algorithms. We'll also discuss
-where new challenges arise and how we're tackling them. For example, how
-to model the concept of a Key Encapsulation Mechanism (KEM), and how to
-best expose it as an API that follows our easy-to-use & hard-to-misuse
-philosophy.</details> |
+|              || **Post Quantum Cryptography in Tink** <details close>Tink is a multi-language, cross-platform, open source library that provides secure and easy-to-use cryptographic APIs, created and maintained by cryptographers and security engineers at Google (https://developers.google.com/tink). In this talk, we will discuss how we are approaching the transition to post-quantum cryptography in Tink. In particular, we'll see how the baked-in key rotation architecture enables smooth rotation towards other algorithms. We'll also discuss where new challenges arise and how we're tackling them. For example, how to model the concept of a Key Encapsulation Mechanism (KEM), and how to best expose it as an API that follows our easy-to-use & hard-to-misuse philosophy.</details> |
 |  9:45-10:15  || [Chen-Da Liu-Zhang (Lucerne University of Applied Sciences and Arts & Web3 Foundation)](https://sites.google.com/view/chendaliu/about-me?authuser=0) |
 |              || **Asynchronous Multi-Party Computation with Linear Communication and Optimal Resilience**  <a href="https://drive.google.com/file/d/1J6WWfwna79yRGXr6KWurj22lXlKLiXkH/view?usp=sharing" style="text-decoration: underline;">slides</a> <details close>Secure multi-party computation (MPC) allows a set of parties to jointly compute a function over their private inputs. The seminal works of Ben-Or, Canetti and Goldreich [STOC '93] and Ben-Or, Kelmer and Rabin [PODC '94] settled the feasibility of MPC over asynchronous networks. Despite the significant line of work devoted to improving the communication complexity, current protocols with information-theoretic security and optimal resilience communicate \Omega(n^4C) field elements for a circuit with C multiplication gates. In contrast, synchronous MPC protocols with O(nC) communication have long been known. In this work we provide the first asynchronous MPC protocol with optimal resilience and linear O(nC) communication. The protocol makes black-box use of an asynchronous complete secret-sharing (ACSS) protocol, where the cost per multiplication reduces to the cost of distributing a constant number of sharings via ACSS, improving a linear factor over the state of the art by Choudhury and Patra [IEEE Trans. Inf. Theory '17]. Instantiating the ACSS with the concurrent work by Ji, Li and Song [CRYPTO '24] achieving linear cost per sharing, the result follows.</details>  |
 | 10:15-10:45  || Break |
