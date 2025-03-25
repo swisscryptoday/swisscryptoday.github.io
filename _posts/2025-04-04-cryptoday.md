@@ -98,7 +98,7 @@ The <a href="http://www.inf.usi.ch">Faculty of Informatics</a> stands out as a c
 ##### Program to be Announced
 
 
-|:-------------||------------------------------:|
+|:-------------||-------------|
 |  10:00-10:25 || **Registrations & Arrivals**  | 
 |  10:25-10:30 || **Opening Remarks** 			|
 |  10:30-11:00 || Welcome Drinks                |
@@ -128,7 +128,7 @@ philosophy.</details> |
 |              ||  								|
 |  17:00-17:10 || **Closing Remarks**			|
 |--------------||-------------------------------|
-
+||||
 <p></p>
 
 
