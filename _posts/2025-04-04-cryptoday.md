@@ -25,6 +25,35 @@ date:   2025-04-04 10:00:00 +0100
 <!-- SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen -->
 
 
+##### Program
+
+
+
+|:-------------||-------------|
+|  10:00-10:30 || **Registrations & Arrivals** |
+|  10:30-10:55 || **Welcome Drinks** |
+|  10:55-11:00 || **Opening Remarks** |
+|  11:00-12:30 || **Session 1** |
+|  11:00-11:30 || Guillaume Endignoux (Google)  |
+|              || **Post Quantum Cryptography in Tink** <details close>Tink is a multi-language, cross-platform, open source library that provides secure and easy-to-use cryptographic APIs, created and maintained by cryptographers and security engineers at Google (https://developers.google.com/tink). In this talk, we will discuss how we are approaching the transition to post-quantum cryptography in Tink. In particular, we'll see how the baked-in key rotation architecture enables smooth rotation towards other algorithms. We'll also discuss where new challenges arise and how we're tackling them. For example, how to model the concept of a Key Encapsulation Mechanism (KEM), and how to best expose it as an API that follows our easy-to-use & hard-to-misuse philosophy.</details> |
+| 11:30-12:00  || Lenka Marekova  (ETH Zurich) |
+|              || **Analysis of the Telegram Key Exchange** <details close>We describe, formally model, and prove the security of Telegram's key exchange protocols for client-server communications. Our security proofs reduce the security of the protocols to that of their cryptographic building blocks, but the subsequent analysis of those building blocks requires the introduction of a number of novel security assumptions, reflecting many design decisions made by Telegram that are suboptimal from the perspective of formal analysis. In this talk, I'll discuss the difficulties we encountered on the way as well as the broader lessons about protocol design that can be taken from our work. This talk is based on joint work with Martin R. Albrecht, Kenny Paterson, Eyal Ronen, and Igors Stepanovs.</details> |
+| 12:00-12:30  || Subhadeep Banik  (USI Lugano) |
+|              || **The TEA-3 Encryption Algorithm** <details close>We present a number of observations on TEA-3, a stream cipher used in TETRA radio networks that was kept secret until recently. While the same also holds for the six other TETRA encryption algorithms, we pick TEA-3 to start with, as (i) it is not obviously weakened as TEA-1,4,7 but (ii) in contrast to TEA-2 it is approved for extra-European emergency service, and (iii) as already noted by Meijer et al at USENIX23 the TEA-3 design surprisingly contains a non-bijective S-box. Most importantly, we show that the 80-bit non-linear feedback shift register operating on the key decomposes into a cascade of two 40-bit registers. Although this hints at an intentional weakness at first glance, we are not able to lift our results to a practical attack. Also we shed some light as to why the length of the initial vector used in the cipher is limited to 29 bits. </details> |
+| 12:30-14:00  || **Lunch Break** |
+| 14:00-15:00  || **Session 2 (Short Talks)** |
+| 15:00-15:30  || **Coffee Break** |
+| 15:30-17:00  || **Session 3** |
+| 15:30-16:00  || Bertram Poettering (IBM Zurich)|
+|              || **Digital Signatures with Outsourced Hashing** <details close> Most practical signature schemes follow the hash-then-sign paradigm: First the (arbitrarily long) message is mapped to a fixed-length hash value, then a signing core derives the signature from the latter. As it is implementationally attractive, practitioners routinely exploit this structure by decoupling the two steps and distributing them among different entities; for instance, industry standards like PKCS#11 specify how security smartcards implement exclusively the core, leaving the hashing to their (untrusted) environment. At the same time, the classic security notions for signature schemes don’t consider such a decoupling, and thus don’t cover attacks involving, for instance, providing the core with maliciously chosen hash values. We show how the functional separation of hashing and core in signature schemes can be systematized, so that implementational demands (in the spirit of PKCS#11) and, hopefully, security can be met simultaneously. We accompany this foundational work with a case study of a variety of standardized (EC)DLP based signatures. Surprisingly, as we show, their security varies across the full spectrum between universally forgeable and provably unforgeable. For instance, for the same scheme, we demonstrate universal forgeries when instantiated with 224-bit ECC (using an attack that completes in milliseconds), while we establish strong unforgeability for the 256-bit ECC case. Many schemes become completely insecure when the hash function is instantiated with SHA3 instead of with SHA2. </details>|
+| 16:00-16:30  || Jayamine Alupotha  (University of Bern) |
+|              || **Anonymous Self-Credentials and their Application to Single-Sign-On**<details close> Modern life makes having a digital identity no longer optional, whether one needs to manage a bank account or subscribe to a newspaper. As the number of online services increases, it is fundamental to safeguard user privacy and equip service providers (SP) with mechanisms enforcing Sybil resistance, i.e., preventing a single entity from showing as many. Current approaches, such as anonymous credentials and self-sovereign identities, typically rely on identity providers or identity registries trusted not to track users' activities. However, this assumption of trust is no longer appropriate in a world where user data is considered a valuable asset. To address this challenge, we introduce a new cryptographic notion, Anonymous Self-Credentials (ASC), along with two implementations. This approach enables users to maintain their privacy within an anonymity set while allowing SPs to obtain Sybil resistance. Then, we present a User-issued Unlinkable Single Sign-On (U2SSO) implemented from ASC that solely relies on an identity registry to immutably store identities. U2SSO solution allows users to generate unlinkable child credentials for each SP using only one set of master credentials. We demonstrate the practicality and efficiency of our U2SSO solution by providing a complete proof of concept. </details>|
+| 16:30-17:00  || Andrea Cerulli (DFINITY) |
+|              ||  |
+| 17:00-17:10  || Closing Remarks|
+||||
+
+
 ##### Registration
 
 Participation is free of cost but is necessary for planning and organization.
@@ -95,33 +124,6 @@ The <a href="http://www.inf.usi.ch">Faculty of Informatics</a> stands out as a c
 </div>
 </p>
 
-##### Program
-
-
-
-|:-------------||-------------|
-|  10:00-10:25 || **Registrations & Arrivals** |
-|  10:25-10:30 || **Opening Remarks** |
-|  10:30-11:00 || **Welcome Drinks** |
-|  11:00-12:30 || **Session 1** |
-|  11:00-11:30 || Guillaume Endignoux (Google)  |
-|              || **Post Quantum Cryptography in Tink** <details close>Tink is a multi-language, cross-platform, open source library that provides secure and easy-to-use cryptographic APIs, created and maintained by cryptographers and security engineers at Google (https://developers.google.com/tink). In this talk, we will discuss how we are approaching the transition to post-quantum cryptography in Tink. In particular, we'll see how the baked-in key rotation architecture enables smooth rotation towards other algorithms. We'll also discuss where new challenges arise and how we're tackling them. For example, how to model the concept of a Key Encapsulation Mechanism (KEM), and how to best expose it as an API that follows our easy-to-use & hard-to-misuse philosophy.</details> |
-| 11:30-12:00  || Lenka Marekova  (ETH Zurich) |
-|              || **Analysis of the Telegram Key Exchange** <details close>We describe, formally model, and prove the security of Telegram's key exchange protocols for client-server communications. Our security proofs reduce the security of the protocols to that of their cryptographic building blocks, but the subsequent analysis of those building blocks requires the introduction of a number of novel security assumptions, reflecting many design decisions made by Telegram that are suboptimal from the perspective of formal analysis. In this talk, I'll discuss the difficulties we encountered on the way as well as the broader lessons about protocol design that can be taken from our work. This talk is based on joint work with Martin R. Albrecht, Kenny Paterson, Eyal Ronen, and Igors Stepanovs.</details> |
-| 12:00-12:30  || Subhadeep Banik  (USI Lugano) |
-|              || **The TEA-3 Encryption Algorithm** <details close>We present a number of observations on TEA-3, a stream cipher used in TETRA radio networks that was kept secret until recently. While the same also holds for the six other TETRA encryption algorithms, we pick TEA-3 to start with, as (i) it is not obviously weakened as TEA-1,4,7 but (ii) in contrast to TEA-2 it is approved for extra-European emergency service, and (iii) as already noted by Meijer et al at USENIX23 the TEA-3 design surprisingly contains a non-bijective S-box. Most importantly, we show that the 80-bit non-linear feedback shift register operating on the key decomposes into a cascade of two 40-bit registers. Although this hints at an intentional weakness at first glance, we are not able to lift our results to a practical attack. Also we shed some light as to why the length of the initial vector used in the cipher is limited to 29 bits. </details> |
-| 12:30-14:00  || **Lunch Break** |
-| 14:00-15:00  || **Session 2 (Short Talks)** |
-| 15:00-15:30  || **Coffee Break** |
-| 15:30-17:00  || **Session 3** |
-| 15:30-16:00  || Bertram Poettering (IBM Zurich)|
-|              || **Digital Signatures with Outsourced Hashing** <details close> Most practical signature schemes follow the hash-then-sign paradigm: First the (arbitrarily long) message is mapped to a fixed-length hash value, then a signing core derives the signature from the latter. As it is implementationally attractive, practitioners routinely exploit this structure by decoupling the two steps and distributing them among different entities; for instance, industry standards like PKCS#11 specify how security smartcards implement exclusively the core, leaving the hashing to their (untrusted) environment. At the same time, the classic security notions for signature schemes don’t consider such a decoupling, and thus don’t cover attacks involving, for instance, providing the core with maliciously chosen hash values. We show how the functional separation of hashing and core in signature schemes can be systematized, so that implementational demands (in the spirit of PKCS#11) and, hopefully, security can be met simultaneously. We accompany this foundational work with a case study of a variety of standardized (EC)DLP based signatures. Surprisingly, as we show, their security varies across the full spectrum between universally forgeable and provably unforgeable. For instance, for the same scheme, we demonstrate universal forgeries when instantiated with 224-bit ECC (using an attack that completes in milliseconds), while we establish strong unforgeability for the 256-bit ECC case. Many schemes become completely insecure when the hash function is instantiated with SHA3 instead of with SHA2. </details>|
-| 16:00-16:30  || Jayamine Alupotha  (University of Bern) |
-|              || **Anonymous Self-Credentials and their Application to Single-Sign-On**<details close> Modern life makes having a digital identity no longer optional, whether one needs to manage a bank account or subscribe to a newspaper. As the number of online services increases, it is fundamental to safeguard user privacy and equip service providers (SP) with mechanisms enforcing Sybil resistance, i.e., preventing a single entity from showing as many. Current approaches, such as anonymous credentials and self-sovereign identities, typically rely on identity providers or identity registries trusted not to track users' activities. However, this assumption of trust is no longer appropriate in a world where user data is considered a valuable asset. To address this challenge, we introduce a new cryptographic notion, Anonymous Self-Credentials (ASC), along with two implementations. This approach enables users to maintain their privacy within an anonymity set while allowing SPs to obtain Sybil resistance. Then, we present a User-issued Unlinkable Single Sign-On (U2SSO) implemented from ASC that solely relies on an identity registry to immutably store identities. U2SSO solution allows users to generate unlinkable child credentials for each SP using only one set of master credentials. We demonstrate the practicality and efficiency of our U2SSO solution by providing a complete proof of concept. </details>|
-| 16:30-17:00  || Andrea Cerulli (DFINITY) |
-|              ||  |
-| 17:00-17:10  || Closing Remarks|
-||||
 
 
 <p></p>
