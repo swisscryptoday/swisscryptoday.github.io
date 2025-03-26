@@ -30,17 +30,16 @@ date:   2025-04-04 10:00:00 +0100
 
 
 |:-------------||-------------|
-|  10:00-10:30 || **Registrations & Arrivals** |
-|  10:30-10:55 || **Welcome Coffee** |
-|  10:55-11:00 || **Opening Remarks** |
-|  11:00-12:30 || **Session 1** |
-|  11:00-11:30 || Guillaume Endignoux (Google)  |
+|  10:00-10:30 || **Registrations & Welcome Coffee** |
+|  10:30-10:35 || **Opening Remarks** |
+|  10:35-12:05 || **Session 1** |
+|  10:35-11:05 || Guillaume Endignoux (Google)  |
 |              || **Post Quantum Cryptography in Tink** <details close>Tink is a multi-language, cross-platform, open source library that provides secure and easy-to-use cryptographic APIs, created and maintained by cryptographers and security engineers at Google (https://developers.google.com/tink). In this talk, we will discuss how we are approaching the transition to post-quantum cryptography in Tink. In particular, we'll see how the baked-in key rotation architecture enables smooth rotation towards other algorithms. We'll also discuss where new challenges arise and how we're tackling them. For example, how to model the concept of a Key Encapsulation Mechanism (KEM), and how to best expose it as an API that follows our easy-to-use & hard-to-misuse philosophy.</details> |
-| 11:30-12:00  || Lenka Marekova  (ETH Zurich) |
+| 11:05-11:35  || Lenka Marekova  (ETH Zurich) |
 |              || **Analysis of the Telegram Key Exchange** <details close>We describe, formally model, and prove the security of Telegram's key exchange protocols for client-server communications. Our security proofs reduce the security of the protocols to that of their cryptographic building blocks, but the subsequent analysis of those building blocks requires the introduction of a number of novel security assumptions, reflecting many design decisions made by Telegram that are suboptimal from the perspective of formal analysis. In this talk, I'll discuss the difficulties we encountered on the way as well as the broader lessons about protocol design that can be taken from our work. This talk is based on joint work with Martin R. Albrecht, Kenny Paterson, Eyal Ronen, and Igors Stepanovs.</details> |
-| 12:00-12:30  || Subhadeep Banik  (USI Lugano) |
+| 11:35-12:05  || Subhadeep Banik  (USI Lugano) |
 |              || **The TEA-3 Encryption Algorithm** <details close>We present a number of observations on TEA-3, a stream cipher used in TETRA radio networks that was kept secret until recently. While the same also holds for the six other TETRA encryption algorithms, we pick TEA-3 to start with, as (i) it is not obviously weakened as TEA-1,4,7 but (ii) in contrast to TEA-2 it is approved for extra-European emergency service, and (iii) as already noted by Meijer et al at USENIX23 the TEA-3 design surprisingly contains a non-bijective S-box. Most importantly, we show that the 80-bit non-linear feedback shift register operating on the key decomposes into a cascade of two 40-bit registers. Although this hints at an intentional weakness at first glance, we are not able to lift our results to a practical attack. Also we shed some light as to why the length of the initial vector used in the cipher is limited to 29 bits. </details> |
-| 12:30-14:00  || **Lunch Break** |
+| 12:05-14:00  || **Lunch Break** |
 | 14:00-15:00  || **Session 2 (Short Talks)** |
 | 15:00-15:30  || **Coffee Break** |
 | 15:30-17:00  || **Session 3** |
