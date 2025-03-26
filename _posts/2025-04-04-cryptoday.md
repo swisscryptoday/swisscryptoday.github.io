@@ -31,7 +31,7 @@ date:   2025-04-04 10:00:00 +0100
 
 |:-------------||-------------|
 |  10:00-10:30 || **Registrations & Arrivals** |
-|  10:30-10:55 || **Welcome Drinks** |
+|  10:30-10:55 || **Welcome Coffee** |
 |  10:55-11:00 || **Opening Remarks** |
 |  11:00-12:30 || **Session 1** |
 |  11:00-11:30 || Guillaume Endignoux (Google)  |
