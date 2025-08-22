@@ -10,11 +10,11 @@ date:   2025-07-07 10:00:00 +0100
 
 <!-- ##### Place holder -->
 
+![Smiling Pumpkin](../assets/2025/pumpkin.svg){: style="height: 25vh; float: left;"}
+
 We are excited to announce that the fifth Swiss Crypto Day, Halloween Edition, 
 will be held at the [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch)
 on Friday, October 31st, 2025, 10am to 4pm.
-
-![Smiling Pumpkin](../assets/2025/pumpkin.svg)
 
 <!-- Next year's Swiss Crypto Day will be organized at [USI](https://www.usi.ch/en). --> 
 
@@ -30,8 +30,9 @@ on Friday, October 31st, 2025, 10am to 4pm.
 The program will be available beginning of October.
 If you have an interesting topic to present and which is related to research
 in cryptography, please send an email to 
-[swisscrypto-2025-halloween@listes.epfl.ch]
-(mailto:swisscrypto-2025-halloween@listes.epfl.ch?subject=talk proposal)
+<a href="mailto:swisscrypto-2025-halloween@listes.epfl.ch?subject=talk proposal">
+swisscrypto-2025-halloween@listes.epfl.ch
+</a>
 and mention:
 
 - your name and affiliation
@@ -54,8 +55,9 @@ and mention:
 
 Participation is free of cost but is necessary for planning and organization.
 Please send us an email to 
-[swisscrypto-2025-halloween@listes.epfl.ch]
-(mailto:swisscrypto-2025-halloween@listes.epfl.ch?subject=registration)
+<a href="mailto:swisscrypto-2025-halloween@listes.epfl.ch?subject=registration">
+swisscrypto-2025-halloween@listes.epfl.ch
+</a>
 for registration.
 We'll confirm your registration, and ask you kindly to inform us if you cannot make it.
 
