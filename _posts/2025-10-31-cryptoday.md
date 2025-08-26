@@ -29,15 +29,7 @@ on Friday, October 31st, 2025, 10am to 4pm.
 
 The program will be available beginning of October.
 If you have an interesting topic to present and which is related to research
-in cryptography, please send an email to 
-<a href="mailto:swisscrypto-2025-halloween@listes.epfl.ch?subject=talk proposal">
-swisscrypto-2025-halloween@listes.epfl.ch
-</a>
-and mention:
-
-- your name and affiliation
-- proposed title and duration of talk
-- eventual links to papers
+in cryptography, please submit your suggestion on <https://scd2025.c4dt.org>. 
 
 <!-- 
 |:-------------||-------------|
@@ -54,12 +46,8 @@ and mention:
 ### Registration
 
 Participation is free of cost but is necessary for planning and organization.
-Please send us an email to 
-<a href="mailto:swisscrypto-2025-halloween@listes.epfl.ch?subject=registration">
-swisscrypto-2025-halloween@listes.epfl.ch
-</a>
-for registration.
-We'll confirm your registration, and ask you kindly to inform us if you cannot make it.
+Please sign up on <https://scd2025.c4dt.org> and get a ticket.
+We ask you kindly to inform us if you cannot make it.
 
 Registration deadline is 24th of October 2025.
 
