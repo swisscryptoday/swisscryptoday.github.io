@@ -29,7 +29,7 @@ on Friday, October 31st, 2025, 10am to 4pm.
 
 The program will be available beginning of October.
 If you have an interesting topic to present and which is related to research
-in cryptography, please submit your suggestion on <https://scd2025.c4dt.org>. 
+in cryptography, please submit your suggestion on <https://scd2025.c4dt.org/conferences/scd2025>. 
 
 <!-- 
 |:-------------||-------------|
@@ -46,7 +46,7 @@ in cryptography, please submit your suggestion on <https://scd2025.c4dt.org>.
 ### Registration
 
 Participation is free of cost but is necessary for planning and organization.
-Please sign up on <https://scd2025.c4dt.org> and get a ticket.
+Please sign up on <https://scd2025.c4dt.org/conferences/scd2025> and get a ticket.
 We ask you kindly to inform us if you cannot make it.
 
 Registration deadline is 24th of October 2025.
