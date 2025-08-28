@@ -20,6 +20,7 @@ permalink: /groups/
 - [EPFL - LACAL](//archiveweb.epfl.ch/lacal.epfl.ch/)
 - [EPFL - LASEC](//lasec.epfl.ch/)
 - [EPFL - SPRING](//spring.epfl.ch/)
+- [EPFL - QCC](//www.epfl.ch/labs/qcc/research/)
 <!-- Lucerne -->
 - [HSLU - Blockchain Lab](//sites.hslu.ch/blockchainlab/)
 <!-- Lugano -->
