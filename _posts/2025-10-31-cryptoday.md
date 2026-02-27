@@ -19,7 +19,7 @@ on Friday, October 31st, 2025, 10am to 4pm.
 <!-- Next year's Swiss Crypto Day will be organized at [USI](https://www.usi.ch/en). --> 
 
 <!-- ##### When -->
-<!-- September 2nd, 2024, 9:00 - 17:10 -->
+<!-- September 2nd, 2024, 9:00-17:10 -->
  
 <!-- ##### Where -->
 <!-- SQUARE at the University of St. Gallen, Guisanstrasse 20, 9010 St. Gallen -->
