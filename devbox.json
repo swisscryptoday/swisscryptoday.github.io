@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.16.0/.schema/devbox.schema.json",
+  "packages": [
+    "bundler@2.6",
+    "which@latest",
+    "ruby@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "bundle install"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ],
+      "serve": [
+        "bundle exec jekyll serve --livereload"
+      ]
+    }
+  }
+}
