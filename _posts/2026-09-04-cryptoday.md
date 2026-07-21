@@ -19,27 +19,27 @@ To participate at the event, please register [here](https://forms.office.com/Pag
 Below is a preliminary program, details will follow soon.
 
 |:-------------||-------------|
-| 10:00-10:30  || **Registration & Welcome Coffee** |
-| 10:30-10:45  || **Opening Remarks**  |
-| 10:45-11:30  || [Stefano Tessaro (University of Washington)](https://homes.cs.washington.edu/~tessaro/) |
+| 10:00        || **Registration & Welcome Coffee** |
+| 10:30        || **Opening Remarks**  |
+| 10:45        || [Stefano Tessaro (University of Washington)](https://homes.cs.washington.edu/~tessaro/) |
 |              || **tbd** |
-| 11:30-12:00  || [Matilda Backendal (Università della Svizzera italiana)](https://mbackendal.github.io/) |
+| 11:30        || [Matilda Backendal (Università della Svizzera italiana)](https://mbackendal.github.io/) |
 |              || **tbd** |
-| 12:00-12:35  || **Short Talks Session I** (10 minutes per talk) |
+| 12:00        || **Short Talks Session I** (10 minutes per talk) |
 |              || Andrea Caforio (lowRISC C.I.C.): **Assembling Lattices: Secure and Efficient PQC in OpenTitan** |
 |              || Patrick Towa ([[alloc] init]): **Implementable Witness Encryption from Arithmetic Affine Determinant Programs** |
 |              || Marc Ilunga (Trail of Bits): **Informalizing Cryptographic Proofs** |
-| 12:35-14:00  || **Lunch Break** |
-| 14:00-14:30  || [Andrea Basso (IBM Research Zurich)](https://andreabasso.com/) |
+| 12:35        || **Lunch Break** |
+| 14:00        || [Andrea Basso (IBM Research Zurich)](https://andreabasso.com/) |
 |              || **tbd** |
-| 14:30-14:55  || Chiara Spadafora, Audhild Hoegaasen (Swiss Post) |
+| 14:30        || Chiara Spadafora, Audhild Hoegaasen (Swiss Post) |
 |              || **When Cryptography Meets Reality: Insights from the Swiss Post E‑Voting Protocol** |
-| 14:55-15:30  || **Short Talks Session I** (10 minutes per talk) |
+| 14:55        || **Short Talks Session II** (10 minutes per talk) |
 |              || Silvia Sconza (University of Zurich): **ORCAS - An Efficient Adaptor Signature based on CSI-FiSh** |
 |              || Sina Schaeffler (IBM Research Zurich, ETH Zurich): **MIKE: a fast and compact post-quantum NIKE** |
 |              || Florias Papadopoulos (University of St. Gallen): **Privacy-preserving Proximity Testing from Geometric Fuzzy Matching** |
-| 15:30-16:00  || **Coffee Break** |
-| 16:00-16:30  || [Emanuele Giunta (ETH Zurich)](https://emanuelegiunta.github.io/) |
+| 15:30        || **Coffee Break** |
+| 16:00        || [Emanuele Giunta (ETH Zurich)](https://emanuelegiunta.github.io/) |
 |              || **tbd** |
 ||||
 
