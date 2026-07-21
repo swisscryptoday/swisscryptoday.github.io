@@ -14,7 +14,37 @@ The sixth Swiss Crypto Day will be held at ETH Zürich on Friday, September 4th,
 
 To participate at the event, please register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=7KY0lmaio0WrFHTEIR_FgnOSTzWx9TxFiTcKStiO0LlUMEM3RjlOTFdTV0hKUUNaSEFUOEE2UTdCMS4u). The registration closes on Friday, August 21. There is no participation fee.
 
-More details about the event will follow soon.
+### Program
+
+Below is a preliminary program, details will follow soon.
+
+|:-------------||-------------|
+| 10:00-10:30  || **Registration & Welcome Coffee** |
+| 10:30-10:45  || **Opening Remarks**  |
+| 10:45-11:30  || [Stefano Tessaro (University of Washington)](https://homes.cs.washington.edu/~tessaro/) |
+|              || **tbd** |
+| 11:30-12:00  || [Matilda Backendal (Università della Svizzera italiana)](https://mbackendal.github.io/) |
+|              || **tbd** |
+| 12:00-12:35  || **Short Talks Session I** (10 minutes per talk) |
+|              || Andrea Caforio (lowRISC C.I.C.): **Assembling Lattices: Secure and Efficient PQC in OpenTitan** |
+|              || Patrick Towa ([[alloc] init]): **Implementable Witness Encryption from Arithmetic Affine Determinant Programs** |
+|              || Marc Ilunga (Trail of Bits): **Informalizing Cryptographic Proofs** |
+| 12:35-14:00  || **Lunch Break** |
+| 14:00-14:30  || [Andrea Basso (IBM Research Zurich)](https://andreabasso.com/) |
+|              || **tbd** |
+| 14:30-14:55  || Chiara Spadafora, Audhild Hoegaasen (Swiss Post) |
+|              || **When Cryptography Meets Reality: Insights from the Swiss Post E‑Voting Protocol** |
+| 14:55-15:30  || **Short Talks Session I** (10 minutes per talk) |
+|              || Silvia Sconza (University of Zurich): **ORCAS - An Efficient Adaptor Signature based on CSI-FiSh** |
+|              || Sina Schaeffler (IBM Research Zurich, ETH Zurich): **MIKE: a fast and compact post-quantum NIKE** |
+|              || Florias Papadopoulos (University of St. Gallen): **Privacy-preserving Proximity Testing from Geometric Fuzzy Matching** |
+| 15:30-16:00  || **Coffee Break** |
+| 16:00-16:30  || [Emanuele Giunta (ETH Zurich)](https://emanuelegiunta.github.io/) |
+|              || **tbd** |
+||||
+
+
+
 ### Mailing list
 
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
