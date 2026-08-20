@@ -14,9 +14,13 @@ The sixth Swiss Crypto Day will be held at ETH Zürich on Friday, September 4th,
 
 To participate at the event, please register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=7KY0lmaio0WrFHTEIR_FgnOSTzWx9TxFiTcKStiO0LlUMEM3RjlOTFdTV0hKUUNaSEFUOEE2UTdCMS4u). The registration closes on Friday, August 21. There is no participation fee.
 
-### Program
+### Venue
 
-Below is a preliminary program, details will follow soon.
+Swiss Crypto Day 2026 will be held in the Computer Science Department at ETH Zürich, Building CAB, Room G 11 ([Universitätstrasse 6, 8006 Zürich](https://maps.app.goo.gl/KHKy6runWdUCm9JX8)).  Take the main entrance of the CS building CAB from Universitätstrasse and go up one flight of stairs to find the registration desk and the lecture hall.
+
+Arriving by train, take the trams 6 or 10 from Zurich HB to the tram stop "ETH/Universitätsspital". Alternatively, you can enjoy a ride with the Polybahn ropeway.
+
+### Program
 
 |:-------------||-------------|
 | 10:00        || **Registration & Welcome Coffee** |
