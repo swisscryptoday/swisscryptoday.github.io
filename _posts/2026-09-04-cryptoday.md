@@ -60,6 +60,11 @@ Arriving by train, take tram 6 or 10 from Zurich HB to stop "ETH/Universitätssp
 
 
 
+### Sponsors
+
+![SNSF](/assets/2026-09/SNSF-logo.png)  | ![ETH Cyber Security MAS DAS CAS](/assets/2026-09/ETH-logo.png)
+
+
 ### Mailing list
 
 To subscribe to the mailing list, please visit [list.inf.unibe.ch](https://list.inf.unibe.ch/postorius/lists/swisscryptoday.list.inf.unibe.ch/) or send an empty email to: `swisscryptoday-join@list.inf.unibe.ch`.
