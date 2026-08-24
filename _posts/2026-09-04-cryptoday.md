@@ -62,7 +62,7 @@ Arriving by train, take tram 6 or 10 from Zurich HB to stop "ETH/Universitätssp
 
 ### Sponsors
 
-![SNSF](/assets/2026-09/SNSF-logo.png)  | ![ETH Cyber Security MAS DAS CAS](/assets/2026-09/ETH-logo.png)
+![ETH Cyber Security MAS DAS CAS](/assets/2026-09/ETH-logo.png) | | ![SNSF](/assets/2026-09/SNSF-logo.png)
 
 
 ### Mailing list
